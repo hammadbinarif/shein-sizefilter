@@ -11,7 +11,7 @@
 # Creators
 - [Hammad Arif](https://github.com/hammadbinarif)
 # Install:
-- Userscript: [DOWNLOAD](https://github.com/hammadbinarif/shein-sizefilter/raw/master/shein-size-filter.user.js)
+- Userscript: [DOWNLOAD](https://github.com/hammadbinarif/shein-sizefilter/raw/refs/heads/main/shein-size-filter.user.js)
 - Userscript Manager: [DOWNLOAD](https://tampermonkey.net)
 # Instructions:
 - 1) Install a browser extension for TamperMonkey Userscript Manager(download above)
